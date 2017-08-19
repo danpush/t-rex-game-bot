@@ -1,7 +1,7 @@
 # T-Rex Game Bot
 A bot that plays the Google Chrome T-Rex game for you. The lowest score it has ever gotten is 4 000, and the highest is over 100 000. It can consistantly hit around 50 000 points.
 
-Keep in mind this currently doesnt use doesn't use key inputs, but directly the controls from [chromium.](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js)
+Keep in mind this currently doesnt use doesn't use key inputs, but controls directly from [chromium.](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js)
 
 ![alt text](https://i.imgur.com/uAlZzuq.png)
 
