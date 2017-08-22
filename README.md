@@ -4,6 +4,7 @@ A bot that plays the Google Chrome T-Rex game for you. The lowest score it has e
 Keep in mind this currently doesnt use doesn't use key inputs, but controls directly from [chromium.](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js)
 
 ![alt text](https://i.imgur.com/uAlZzuq.png)
+![alt text](https://i.imgur.com/DAB99Yp.gifv)
 
 
 # How To Use
