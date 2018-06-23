@@ -1,5 +1,3 @@
-*They edited this game, bot barely works now
-
 # T-Rex Game Bot
 A bot that plays the Google Chrome T-Rex game for you. The highest score this bot got to is over 100 000. It can consistantly hit around 50 000 points.
 
