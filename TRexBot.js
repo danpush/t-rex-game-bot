@@ -1,5 +1,3 @@
-// Made by Daniel Apushkinsky in August 2017
-
 function jump(){
 	Runner.instance_.tRex.setDuck(false);
 	if (!Runner.instance_.tRex.jumping && !Runner.instance_.tRex.ducking) {
@@ -27,8 +25,3 @@ setInterval(function(){
 		}
 	}
 }, 5);
-
-console.log("T-Rex Bot by Daniel Apushkinsky")
-
-//chrome://dino/
-//https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7	
