@@ -61,8 +61,3 @@ function keyUp(codeKey) {
 
     document.body.dispatchEvent(oEvent);
 }
-
-
-function sleep(ms) {
-	return new Promise(resolve => setTimeout(resolve, ms));
-}
