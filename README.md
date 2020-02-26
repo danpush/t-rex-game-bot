@@ -1,9 +1,9 @@
 # T-Rex Game Bot
-A bot that plays the Google Chrome T-Rex game for you. It can consistantly hit around 50,000 points. Highest I've gotten is 100,000 but I'm sure it can go much higher.
+A bot that plays the Google Chrome T-Rex game for you. It can consistantly hit around 50,000 points. Highest I've gotten is 100,000, but I'm sure it can go much higher.
 
 When I had started this project I thought this would be at least 200 lines of code, yet here I am hitting 6 figure scores where the bot itself is just 10 lines of code. Obviously I have to simulate the key inputs, and that's what takes up the other 50 lines.
 
-I've been able to make it so short by finding a formula to calculate how far away I need to jump before an obsticle. I found this by just straight up playing the game and logging the exact speed of the T-rex and the distance away from the obsticle at the time of jumping, putting this into graphing software you could see a clear correlation between the speed of the T-Rex and the distance from the next obsticle (at the time of jumping). Distance would always be 25 * speed. From there all that was left to do was type it up!
+I've been able to make it so short by finding a formula to calculate how far away I need to jump before an obstacle. I found this by just straight up playing the game and logging the exact speed of the T-rex and the distance away from the obsticle at the time of jumping, putting this into graphing software you could see a clear correlation between the speed of the T-Rex and the distance from the next obsticle (at the time of jumping). Distance would always be 25 * speed. From there all that was left to do was type it up!
 
 ![HighScore](https://i.imgur.com/uAlZzuq.png)
 
