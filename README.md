@@ -25,4 +25,4 @@ function keyDown(e){Podium={};var n=document.createEvent("KeyboardEvent");Object
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details
 
-Created August 2017 by Daniel Apushkinsky (Last Updated August 2019)
+Created August 2017 by Daniel Apushkinsky (Last Updated October 2020)
